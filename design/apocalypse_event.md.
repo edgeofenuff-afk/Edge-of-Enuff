@@ -1,0 +1,30 @@
+# 🌪️ Apocalypse Event — *Edge of Enuff*
+
+**Fantasy**  
+Periodic world-scale threats hit your outposts — meteor storms, acid fog, raider swarms, supply line collapse. Survive by adapting and re-routing what you’ve built.
+
+**Trigger**  
+- Timer or server-wide announcement: “Storm front inbound — 2 min.”
+- Map visuals change (sky darkens, sirens, UI alert).
+
+**Player actions**  
+- Stockpile fuel/food, close gaps in fences, reinforce weak links.  
+- Re-route convoys or evacuate parts of the base.  
+- Deploy drones/beacons to predict impact zones.
+
+**Feedback**  
+- Base takes damage if under-supplied or under-defended.  
+- Survive: bonus resources, unlock new tech (“storm shields,” “emergency rails”).  
+- Fail: partial loss but no shame — rebuild faster next time.
+
+**Hidden learning**  
+- Rates of consumption under stress (fuel/time).  
+- Coverage & redundancy (geometry / networks).  
+- Risk/reward tradeoffs.
+
+**Social**  
+- Players can aid each other (send supplies, fortify neighbor’s fence).  
+- Cooperative events: “guild storm bunker.”
+
+**Lore hook**  
+- “Enuff is unstable — storms mark the world’s final collapse.”
